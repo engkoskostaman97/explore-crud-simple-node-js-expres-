@@ -29,3 +29,8 @@ Tampilan Post form data
 Tampilan Data Berhasil Disimpan 
 
 ![image](https://github.com/engkoskostaman97/explore-crud-simple-node-js-expres-/assets/110719940/e4327005-b805-4b61-b038-6fb73a761d86)
+
+Tampilan Edite 
+
+![image](https://github.com/engkoskostaman97/explore-crud-simple-node-js-expres-/assets/110719940/45897326-8ac0-4619-a05f-4a23521cf9f5)
+
