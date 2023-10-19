@@ -21,3 +21,8 @@ STEP 4
 - npm install
 - npm start
 ![image](https://github.com/engkoskostaman97/explore-crud-simple-node-js-expres-/assets/110719940/00855e26-9a61-4567-9faf-7096fe7a30b7)
+
+Tampilan Post form data
+
+![image](https://github.com/engkoskostaman97/explore-crud-simple-node-js-expres-/assets/110719940/d2715e8e-f661-49b2-836c-dcf1e88e74a0)
+
