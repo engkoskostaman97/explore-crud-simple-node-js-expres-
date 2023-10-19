@@ -38,4 +38,9 @@ Tampilan Berhasi Di Edite
 
 ![image](https://github.com/engkoskostaman97/explore-crud-simple-node-js-expres-/assets/110719940/7371c70e-9d1d-4e32-8b8d-d26fdd4ab1cf)
 
+Tampilan Delete Pop UP/alert
+
+![image](https://github.com/engkoskostaman97/explore-crud-simple-node-js-expres-/assets/110719940/7c8c586f-c063-48f3-b1ae-f12eb3143297)
+
+
 
