@@ -2,14 +2,21 @@
 
 
 STEP 1 
+
 check laptop sudah terinstall node js belum dengan:
 - node -v
 - npm -v
+  
 STEP 2
+
 -npm install -g express-generator
+
 STEP 3
+
 -express --view=ejs express-mysql
+
 STEP 4
+
 -cd express-mysql
 -npm install
 -npm start
